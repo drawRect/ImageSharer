@@ -19,8 +19,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eE3-Yb-KUw">
-                                <rect key="frame" x="99.5" y="318.5" width="176" height="30"/>
-                                <state key="normal" title="Share Image to Instagram"/>
+                                <rect key="frame" x="98" y="317" width="179" height="33"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-CondensedBold" family="Helvetica Neue" pointSize="17"/>
+                                <state key="normal" title="Share Image on Instagram"/>
                                 <connections>
                                     <action selector="instaShareAct:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6hG-jV-oVR"/>
                                 </connections>
